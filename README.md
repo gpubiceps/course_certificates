@@ -1,6 +1,6 @@
 # Course certificates
 
-## Специализация Машинное обучение и анализ данных (Moscow Institute of Physics and Technology, Yandex on Coursera)
+## Специализация Машинное обучение и анализ данных (MIPT, Yandex on Coursera)
 - **Математика и Python для анализа данных**
 
 https://github.com/gpubiceps/course_certificates/blob/master/Coursera_MIPT_%26_Yandex_1.pdf
